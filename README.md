@@ -1,8 +1,8 @@
 # 👨🏼‍💻 Daniel Stals
 
-**`Application Consultant/Developer/Creative`**
+**`Front-end Developer/Creative`**
 
-I'm an application consultant and front-end developer with an history of working in the creative/IT industry.
+I'm a front-end developer with an history of working in the creative/IT industry.
 
 * 🌍  I'm based in Maastricht, the Netherlands.
 * ✉️ You can contact me at [danielstals@gmail.com](mailto:danielstals@gmail.com)
